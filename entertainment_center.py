@@ -3,8 +3,8 @@ import fresh_tomatoes
 
 # make movies
 mad_max = media.Movie("Mad Max: Fury Road", 
-	"https://upload.wikimedia.org/wikipedia/en/2/23/Max_Mad_Fury_Road_Newest_Poster.jpg",
-	"https://www.youtube.com/watch?v=woHTUsl66BY",
+	"https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
+	"https://www.youtube.com/watch?v=hEJnMQG9ev8",
 	"http://www.imdb.com/title/tt1392190/")
 
 farewell = media.Movie("Farewell My Concubine", 
@@ -14,12 +14,12 @@ farewell = media.Movie("Farewell My Concubine",
 
 samurai = media.Movie("The Seven Samurai", 
 	"https://upload.wikimedia.org/wikipedia/en/8/84/Seven_Samurai_movie_poster.jpg",
-	"https://www.youtube.com/watch?v=Ok3uTBZdQ6s",
+	"https://www.youtube.com/watch?v=7mw6LyyoeGE",
 	"http://www.imdb.com/title/tt0047478/")
 
 godfather = media.Movie("The Godfather", 
 	"https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
-	"https://www.youtube.com/watch?v=5DO-nDW43Ik",
+	"https://www.youtube.com/watch?v=sY1S34973zA",
 	"http://www.imdb.com/title/tt0068646")
 
 confessions = media.Movie("Confessions", 
@@ -29,7 +29,7 @@ confessions = media.Movie("Confessions",
 
 man_woman = media.Movie("Eat Drink Man Woman", 
 	"https://upload.wikimedia.org/wikipedia/en/b/b4/Eat_Drink_Man_Woman.jpg",
-	"https://www.youtube.com/watch?v=yicBx-okC3k",
+	"https://www.youtube.com/watch?v=wUM9C4cgcG8",
 	"http://www.imdb.com/title/tt0111797/")
 
 # let's the fun begin
