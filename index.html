@@ -65,8 +65,8 @@
     <div class="container">
       
         {% for movie in movies %}
-        <div class="col-md-6 col-lg-4 movie-tile text-center">
-            <img class="poster" data-trailer-youtube-id="{{movie.trailer_youtube_id}}" data-toggle="modal" data-target="#trailer" src="{{movie.poster_image_url}}" width="220" height="342">
+        <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="{{movie.trailer_youtube_id}}">
+            <img class="poster" data-toggle="modal" data-target="#trailer" src="{{movie.poster_image_url}}" width="220" height="342">
              <h2><a href={{movie.imdb_link}}>{{movie.title}}</a></h2>
          </div>
         {% endfor %}
